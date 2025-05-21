@@ -10,6 +10,7 @@ const CounterCard = ({title}) => {
         <p className='card-text fs-4'>Count: {count}</p>
     <div className='d-flex justify-content-center gap-2'>
         <button className='btn btn-success' onClick={()=> setCount (count+1)}>+1</button> 
+        <button className='btn btn-success' onClick={()=> setCount (count-1)}>-1</button> 
         <button className='btn btn-secondary' onClick ={()=> setCount(0)}>Reset</button>
            </div>
         </div>
