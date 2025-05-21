@@ -1,0 +1,58 @@
+/*body{
+    margin: 0;
+    font-family: 'Inter' , sans-serif;
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: #f5f7fa;
+    color: #333;
+}
+
+.app.dark{
+    background: #1e1e2f;
+    color: #eee;
+}
+
+nav,footer{
+    padding: 1rem 2rem;
+    background: #004080;
+    color: white;
+}
+
+.main-content{
+    display: flex;
+    flex: 1;
+}
+
+.sidebar{
+    width: 200px;
+    background: #e3eaf1;
+    padding: 1rem;
+}
+
+.app .dark .sidebar{
+background: #2a2a40;
+}
+
+.dashboard{
+    flex:1;
+    padding: 2rem;
+}
+
+.counter-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+}
+
+.counter-card{
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 0 8px rgba (0,0,0,0.08);
+    text-align: center;
+    }*/
+
